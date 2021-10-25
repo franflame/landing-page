@@ -1,0 +1,1 @@
+This is a project for creating a landing page, intending to demonstrate HTML and CSS skills, particularly in regards to the box model and flexbox. 
